@@ -1,6 +1,0 @@
-/home/stefan/sources/apolo-bar/CMakeFiles/rebuild_cache.dir
-/home/stefan/sources/apolo-bar/CMakeFiles/apolo-bar.dir
-/home/stefan/sources/apolo-bar/CMakeFiles/edit_cache.dir
-/home/stefan/sources/apolo-bar/i3ipc++/CMakeFiles/rebuild_cache.dir
-/home/stefan/sources/apolo-bar/i3ipc++/CMakeFiles/i3ipc++.dir
-/home/stefan/sources/apolo-bar/i3ipc++/CMakeFiles/edit_cache.dir
