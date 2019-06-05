@@ -11,7 +11,7 @@ const std::string center = "%{c}";
 const std::string focused = "%{B#383838}";
 const std::string urgent = "%{B#992525}";
 const std::string button = "${B#2B2B2B}";
-std::string underline = "%{+u}%{U#3A85E2}";
+const std::string underline = "%{+u}%{U#3A85E2}";
 
 /* Bar content */
 std::string workspaces = "";
